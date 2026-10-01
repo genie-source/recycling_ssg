@@ -15,7 +15,10 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
 
+<a href="https://genie.io.kr/posts/bunrissok-devlog" target="_blank">📝 분리쏙 개발기 보러가기</a>
 </div>
+
+
 
 <br>
 
