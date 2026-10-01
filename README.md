@@ -296,4 +296,8 @@ PDF → Markdown → 텍스트 정제 → Upstage 임베딩 → Pinecone
 | 송찬영 | Data · Frontend | GrabCut, 데이터셋 수집 · 정제 |
 | 이진경 | Agent · Frontend | LangGraph Agent, RAG |
 
-**협업** GitHub · Notion · Discord
+## 발표 PPT
+[분리쏙_최종발표_피피티.pdf](https://github.com/user-attachments/files/32782788/_._.pdf)
+
+## 시연영상
+https://github.com/user-attachments/assets/479dc3b7-f099-4465-868c-e649384dcbd3
